@@ -1,0 +1,13 @@
+c:\users\hp\documents\visual studio 2015\Projects\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe
+c:\users\hp\documents\visual studio 2015\Projects\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.pdb
+c:\users\hp\documents\visual studio 2015\Projects\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.exe
+c:\users\hp\documents\visual studio 2015\Projects\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.pdb
+C:\Users\KellzSpiration\Documents\Visual Studio 2019\Assignments\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe.config
+C:\Users\KellzSpiration\Documents\Visual Studio 2019\Assignments\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe
+C:\Users\KellzSpiration\Documents\Visual Studio 2019\Assignments\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.pdb
+C:\Users\KellzSpiration\Documents\Visual Studio 2019\Assignments\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csprojAssemblyReference.cache
+C:\Users\KellzSpiration\Documents\Visual Studio 2019\Assignments\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\KellzSpiration\Documents\Visual Studio 2019\Assignments\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.exe
+C:\Users\KellzSpiration\Documents\Visual Studio 2019\Assignments\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.pdb
